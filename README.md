@@ -21,7 +21,7 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ziadhanyy/ziadhanyy/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/ziadhanyyy/ziadhanyyy/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 ---
@@ -29,7 +29,7 @@
 ## 📅 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ziadhanyy&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ziadhanyyy&theme=tokyo-night" />
 </p>
 
 ---
