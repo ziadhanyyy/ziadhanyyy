@@ -1,20 +1,12 @@
 <h1 align="center">Hi 👋, I'm Ziad Hany</h1>
 <h3 align="center">Full-Stack .NET Developer | Building Scalable Web Applications 🚀</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ziadhanyy&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
-
----
-
 ## 👨‍💻 About Me
 
 - 💻 Full-Stack .NET Developer passionate about building **scalable and maintainable applications**
 - 🔧 Experienced with **ASP.NET Core, Web API, C#, and SQL Server**
 - 📊 Background in **Data Analysis (Pandas, NumPy)**
-- 🤖 Currently learning **Machine Learning**
 - 🚀 Focused on **clean architecture & real-world projects**
-- 🎯 Actively seeking **Internships & Entry-Level Opportunities**
 
 ---
 
